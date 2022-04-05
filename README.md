@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love to play Football and play musical instruments
 
 ### My Website:
+[![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vaibhav-tech.netlify.app)
 
-https://vaibhav-tech.netlify.app
 
 ### Languages and Tools:
 
