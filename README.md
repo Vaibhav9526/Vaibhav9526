@@ -4,7 +4,8 @@
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play Football and play musical instruments
+- ⚡ Fun fact: I love to play Football and musical instruments
+- ⚡ Fun fact: Currently Waiting For Class 10th results 🤣
 
 ### My Website:
 [![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vaibhav-tech.netlify.app)
