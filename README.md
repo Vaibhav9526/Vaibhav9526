@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play Football and musical instruments
-- ⚡ Fun fact: Currently Waiting For Class 10th results 🤣
+- ⚡ Another Fun fact: Currently Waiting For Class 10th results 🤣
+- ⚡ A Big Fan Of H.C Verma sir
 
 ### My Website:
 [![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vaibhav-tech.netlify.app)
