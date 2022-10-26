@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play Football and musical instruments
-- ⚡ Another Fun fact: Currently Waiting For Class 10th results 🤣
+- ⚡ JEE ASPIRANT 🤣
 - ⚡ A Big Fan Of H.C Verma sir
 
 ### My Website:
