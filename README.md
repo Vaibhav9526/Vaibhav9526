@@ -4,9 +4,7 @@
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play Football and musical instruments
-- ⚡ JEE ASPIRANT
-- ⚡ A Big Fan Of H.C Verma sir
+
 
 ### My Website:
 [![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vaibhav-tech.netlify.app)
