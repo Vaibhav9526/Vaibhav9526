@@ -2,8 +2,9 @@
 
 <center><img align="right" alt="GIF" width="420" height="320" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
 ## I'm a Student, Developer!!
+## Started my coding journey in 9th grade during the lockdown, fell in love with it by 10th grade, and even coded during board exams! Took a 3-year break for JEE prep, but ready to dive back in with full passion in 2025. 🚀💻         {Had a little help from my AI buddy to craft this post. Turns out, even ChatGPT has a knack for storytelling and a good sense of humor! 😄🤖             {AGAIN CHATGPT😅}}  !!!!
 
-- 🌱 I’m currently learning everything 🤣
+- ☢🌴 I’m currently on break🤣
 
 
 ### My Website:
