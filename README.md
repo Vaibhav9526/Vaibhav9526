@@ -2,15 +2,8 @@
 
 <center><img align="right" alt="GIF" width="420" height="320" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
 ## I'm a Student, Developer!!<br>
-## Started my coding journey in 9th grade during the lockdown<br>
-## Fell in love with it by 10th grade<br>
-## Even coded during board exams! Took a 3-year break for JEE prep<br>
+## I’m currently on break🤣<br>
 ## But ready to dive back in with full passion in 2025. 🚀💻<br>
-- ☢🌴 I’m currently on break🤣
-
-
-### My Website:
-[![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vaibhav-tech.netlify.app)
 
 
 ### Languages and Tools:
