@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vaibhavsharma9526@gmail.com**
 
-- ⚡ JOKE **My brain is under construction😑**
+- ⚡ Fun Fact **My spacebar is broken!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
