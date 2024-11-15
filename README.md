@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vaibhavsharma9526@gmail.com**
 
-- ⚡ Fun Fact **I started to code when i was 15**
+- ⚡ Fun Fact **I started to code when i was 15 (2021)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
