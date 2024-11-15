@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StickArtly(emoticons)](https://github.com/Vaibhav9526/stickArtly)
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **postgresql**
 
 - 📫 How to reach me **vaibhavsharma9526@gmail.com**
 
