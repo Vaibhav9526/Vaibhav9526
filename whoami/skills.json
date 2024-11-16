@@ -7,7 +7,7 @@
   {
     "type": "skills",
     "name": "JS/Node Frameworks",
-    "children": ["React.js" ,"express.js",]
+    "children": ["React.js" ,"express.js"]
   },
   {
     "type": "skills",
