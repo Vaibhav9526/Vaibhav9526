@@ -2,41 +2,42 @@
   {
     "type": "skills",
     "name": "Languages",
-    "children": ["javascript", "python"]
+    "children": ["javascript"]
   },
   {
     "type": "skills",
-    "name": "JS Frameworks",
-    "children": ["React.js", "Next.js", "Vue.js"]
+    "name": "JS/Node Frameworks",
+    "children": ["React.js" ,"express.js",]
   },
   {
     "type": "skills",
     "name": "Database",
-    "children": ["Postgres", "MongoDB", "DynamoDB", "sequelize"]
+    "children": ["Postgres"]
   },
-  {
+    {
     "type": "skills",
-    "name": "ORM / ODM",
-    "children": ["Prisma", "Mongoose", "Sequelize"]
+    "name": "JavaScript runtime environment",
+    "children": ["node.js"]
   },
   {
     "type": "skills",
     "name": "APIs",
     "children": ["REST", "GraphQL"]
   },
-  {
-    "type": "skills",
-    "name": "Infra",
-    "children": ["Docker", "Compose", "Kubernetes", "Serverless", "Lambda"]
-  },
+
   {
     "type": "skills",
     "name": "miscellaneous",
-    "children": ["typescript", "web3.js", "moralis sdk", "monorepos", "clean code"]
+    "children": ["react-native"]
+  },
+  {
+    "type": "skills",
+    "name": "softwares i use",
+    "children": ["VS code" , "Postman" ,"git and github" ]
   },
   {
     "type": "skills",
     "name": "Other techs and stacks (that I don't use anymore)",
-    "children": ["PHP", "Laravel", "Symfony", "Java", "mysql"]
+    "children": ["PHP", "mysql"]
   }
 ]
