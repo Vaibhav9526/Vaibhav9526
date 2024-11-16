@@ -1,3 +1,7 @@
+<p align="center"><img style="width: 80%" src="./assets/terminal.gif" alt="terminal cv gif" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Vaibhav sharma</h1>
 <h3 align="center">A fullStack developer from India</h3>
 
