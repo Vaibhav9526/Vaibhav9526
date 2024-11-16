@@ -1,6 +1,6 @@
 <div align="center">
 <img src="/vaibhav.gif"
- align="center" height="200" width="500" />
+ align="center" height="300" width="700" />
 </div>  
 <h1 align="center">Hi 👋, I'm Vaibhav sharma</h1>
 <h3 align="center">A fullStack developer from India</h3>
