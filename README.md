@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&pause=1000&color=005DF7&center=true&width=1000&height=40&lines=Hi+there%2C+I'm+Vaibhav+Sharma;I'm+a+full-stack+developer+;+student+with+a+passion+for+learning+and+exploring+new+technologies.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&pause=1000&color=F6FCDF&background=1A1A1900&center=true&vCenter=true&width=2000&height=300&lines=I'm+Vaibhav+Sharma;I'm+a+full-stack+developer;Constantly+expanding+my+knowledge+through+projects)](https://git.io/typing-svg)
 
 <div align ="center" width = "700" height = "200">
 <img src = "/img2.jpg">
