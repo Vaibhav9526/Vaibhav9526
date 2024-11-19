@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Project based on database
 
-- 🌱 I’m currently learning **Postgresql**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **vaibhavsharma9526@gmail.com**
 
