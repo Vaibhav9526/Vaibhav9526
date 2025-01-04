@@ -6,8 +6,6 @@
 <br>
 <img align = "right" src= "/img1.jfif" >
 
-- 🔭 I’m currently working on Project based on database
-
 - 🌱 Currently preparing for Joint Entrance Examination (JEE)
 
 - 📫 How to reach me **vaibhavsharma9526@gmail.com**
