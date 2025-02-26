@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&pause=1000&color=F6FCDF&background=1A1A1900&center=true&vCenter=true&width=2000&height=100&lines=Hi+I'm+Vaibhav+Sharma)](https://git.io/typing-svg)
 
-<div align ="center" width = "200" height = "100">
-<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</div>
-<br>
-<img align = "right" src= "/img1.jfif" >
 
 - 🌱 Currently preparing for Joint Entrance Examination (JEE)
 
