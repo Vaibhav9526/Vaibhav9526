@@ -12,7 +12,7 @@
 
 ```javascript
 const vaibhav = {
-  age: 17,
+  age: 18,
   location: "India",
   education: "JEE Aspirant",
   startedCoding: 2021,
