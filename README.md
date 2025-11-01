@@ -12,11 +12,11 @@
 
 ```javascript
 const vaibhav = {
-  age: 18,
+  age: 19,
   location: "India",
-  education: "JEE Aspirant",
+  education: "NIT Raipur",
   startedCoding: 2021,
-  contact: "vaibhavsharma9526@gmail.com",
+  contact: "vaibhavsharma040506@gmail.com",
   interests: ["Web Development", "Mobile Apps", "Game Dev", "Ornithopters"]
 };
 ```
